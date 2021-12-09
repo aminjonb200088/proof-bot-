@@ -1,5 +1,5 @@
 @echo off
-start dont-run.bat
+start run.bat
 
 node nitro.js
 
