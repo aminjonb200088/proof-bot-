@@ -3,4 +3,4 @@ start run.bat
 
 node nitro.js
 
-pause
+start
